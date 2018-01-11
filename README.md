@@ -1,4 +1,7 @@
 # Hadoop AI Enhancement
+
+Reference: https://github.com/Microsoft/pai/tree/master/hadoop-ai
+
 ## Overview ##
 
 We enhance Hadoop with GPU support for better AI job scheduling. 
